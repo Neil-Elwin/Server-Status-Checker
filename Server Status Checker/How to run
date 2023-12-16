@@ -1,0 +1,6 @@
+Step 1: Open "server.py" and import necessary modules 
+Step 2: Then change recipient email and sender email and also change app password for sender email
+Step 3: Enter the website link which you have to check
+Step 4: Then run the code and wait for the result message in your console, if the server is up then message will appear as "Server is UP" in the console or 
+        if the server is down then email will be sent to the recipient with error message
+Step 4: And if you want to check the timeframe and status of your execution then open "status.py" and run the code to see the status
